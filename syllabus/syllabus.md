@@ -35,14 +35,14 @@ Theoretical models in molecular evolution focusing on phylogenetic techniques.  
 ### Course Learning Objectives and Competencies
 
 1. Understand the theory and application of phylogenetics to research problems in evolutionary biology and public health \
-    Ph.D.~competencies:
+    Ph.D. competencies:
     - A2 Formulate a public health scientific question in statistical terms
 2. Perform a phylogenetic data analysis to answer scientific or public health objectives \
-    Ph.D.~competencies:
+    Ph.D. competencies:
     - A5 Conduct appropriate statistical analyses of study data and interpret results
     - B5 Develop ability to evaluate and incorporate new and evolving computational and digital technologies into biostatistical work
 3. Communicate a phylogenetic analysis to research peers \
-    Ph.D.~competencies:
+    Ph.D. competencies:
     - C2 Effectively communicate statistical concepts and reasoning to public health collaborators
     - D6 Learn to write and publish substantive field publications and communicate the statistical portion of the methodology to a substantive field audience
 
