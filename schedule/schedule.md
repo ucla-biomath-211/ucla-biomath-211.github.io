@@ -9,9 +9,9 @@ Biomath 211 tentative schedule and handouts (expect frequent updates)
 
 Zoom link: <https://ucla.zoom.us/j/97761191576>, for call in dial +1-669-900-6833 and enter meeting ID `977 6119 1576`
 
-| Week | Class Dates | Tentative Topic | Due |
-|:-----------|:-----------|:------------|:------------|:------------|
-|  1 | 1/4, 1/6   | Intro/Trees and Parsimony |
+| Week | Class Dates | Tentative Topic | Posts | Due |
+|:-----------|:-----------|:------------|:------------|:------------|:------------|
+|  1 | 1/4, 1/6   | Intro/Trees and Parsimony | [3/31](https://ucla-biomath-211.github.io/biomath211winter2021/2021/01/03/preclass.html)
 |  2 | 1/11, 1/13 | Parsimony/Distance Methods |
 |  3 | 1/18, 1/20 | Holiday/Continuous-Time Markov Models |
 |  4 | 1/25, 1/27 | Likelihood Methods |
