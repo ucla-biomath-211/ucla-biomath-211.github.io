@@ -3,7 +3,7 @@ layout: course
 title: Biomath 211
 ---
 
-# Biomath 211 - Mathematical and Statistical Phylogenetics - 2021 Winter
+# Biomath 211 - Mathematical and Statistical Phylogenetics - Winter 2021
 
 ## Syllabus
 
@@ -18,37 +18,44 @@ Thu 10am-10:50am @ Zoom <https://ucla.zoom.us/j/97761191576>
 
 ### Instructor
 
-[Dr. Marc Suchard](http://msuchard.github.io/)\
-Office: Gonda 6558\
+[Marc A. Suchard](http://msuchard.github.io/)\
+Office: 6558 Gonda\
 Phone: (310)825-7442\
 Email: <msuchard@ucla.edu>\
 Office hours: offered generously; please email me.
 
-### Teaching Assistant
-
-None
-
-### Course Topics
-
-This is a tentative list of topics:
-
-* Linear regression (review) (5%)
-* Logistic regression (15%)
-* Count data and poisson regression (15%)
-* Multinomial data (5%)
-* Generalized linear models (10%)
-* Mixed effects model (20%)
-* GAM (10%)
-* Regression trees (5%)
-* Neural networks (5%)
-
-### Prerequisite
-
-The prerequisite for this course is linear algebra (Biostat 200A, 200B and linear algebra at level of [BIOSTAT 216](https://ucla-biostat216-2019fall.github.io/schedule.html)). Those wishing to enroll without these prerequisites will need to obtain consent from the instructor.  Homework will use the statistical programming computing language [R](https://www.r-project.org).
-
 ### Course Webpage
 
 <https://ucla-biomath-211.github.io>
+
+### Course Topics
+
+Theoretical models in molecular evolution focusing on phylogenetic techniques.  Topics include evolutionary tree reconstruction methods, studies of viral evolution, phylogeography and coalescent approaches.  Examples provided from evolutionary biology and evolutionary medicine, with a unique focus on implications for human disease processes.  I would appreciate suggestions for special topics that may interest the class.
+
+### Prerequisite
+
+An undergraduate courses in statistics and probability.  Some computer programming experience and familiarity with genetics terms is highly recommended.  For those looking for a probability refresher, I suggest _Introduction to Probability Models_ by Sheldon Ross.
+
+### Course Texts
+
+The main text for this course is _Computational Molecular Evolution_ by Yang.
+A supplementary book, _Analysis of Phylogenetics and Evolution in R_ by Paradis,
+is more hands-on. Also highly recommended are _Inferring Phylogenies_ by Felnsenstein and
+_Statistical Methods in Molecular Evolution_ edited by Nielsen.  _Biological Sequence Analysis: Probabilistic Models of Protein and Nucleic Acids_ by Durbin, Eddy, Krogh and Mitchison provides a sound introduction to tree reconstruction.  Two books with practical examples of how to use current phylogenetic software are _The Phylogenetic Handbook: A Practical Approach to DNA and Protein Phylogeny_ edited by Lemey and Vandamme and _Phylogenetic Trees Made Easy_ by Hall.  For those more mathematically inclined, try _Mathematics of Evolution & Phylogeny_ edited by Gascuel and _Gene Genealogies, Variation and Evolution: A Primer in Coalescent Theory_ by Hein, Schierup and Wuif.
+
+### Computing
+
+Many homework problems and all (unless highly theoretical) final projects will require phylogenetic computation.  I have reserved the Biomath computer lab on Wednesdays for sporadic in-class data analysis examples and time for students to familiarize themselves with several existing phylogenetic programs.  Free packages include:
+
+- [Geneious](http://www.geneious.com) -- convenient framework for analyzing molecular sequence data, excellent user-interface and plugins to run most evolutionary biology (Biomatters)
+- [PHYLIP](http://evolution.genetics.washington.edu/phylip.html) -- large collection of different parsimony-, distance- and likelihood-based programs (Felsenstein)
+- [PAML](http://abacus.gene.ucl.ac.uk/software/paml.html) -- likelihood- and empirical Bayes-based nucleotide and codon programs (Yang)
+- [MrBayes](http://mrbayes.csit.fsu.edu/index.php) -- Bayesian sampler for standard continuous-time Markov chain models (Ronquist, Huelsenbeck, Larget, Simon, Suchard)
+- [BEAST](http://beast.community) -- Bayesian sampler for coalescent models (Drummond, Rambaut, Suchard)
+- [BAli-Phy](http://www.biomath.ucla.edu/msuchard/bali-phy/) -- Bayesian sampler for joint estimation of alignment and phylogeny (Redelings, Suchard)
+- [SPREAD](https://github.com/phylogeography/SpreaD3) -- Spatial phylogenetic reconstruction of evolutionary dynamics (Bielejec, Baele, Rambaut, Suchard, Lemey)
+- [FigTree](http://tree.bio.ed.ac.uk/software/figtree/) -- flexible tree drawing program (Rambaut)
+
 
 ### Course Materials
 
