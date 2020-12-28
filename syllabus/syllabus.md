@@ -13,8 +13,8 @@ Generalized linear models and applications in public health.
 
 ### Lecture and Practicals
 
-Tue 10am-11:50pm @ Zoom <https://ucla.zoom.us/j/97761191576>\
-Thu 10am-10:50am @ Zoom <https://ucla.zoom.us/j/97761191576>
+Mon 9am-10:50pm @ Zoom <https://ucla.zoom.us/j/97761191576>\
+Wed 9am-10:50am @ Zoom <https://ucla.zoom.us/j/97761191576>
 
 ### Instructor
 
