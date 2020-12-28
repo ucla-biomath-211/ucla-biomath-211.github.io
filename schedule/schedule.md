@@ -13,7 +13,7 @@ Zoom link: <https://ucla.zoom.us/j/97761191576>, for call in dial +1-669-900-683
 |:-----------|:-----------|:------------|:------------|:------------|:------------|
 |  1 | 1/4, 1/6   | Intro/Trees and Parsimony | [read](https://ucla-biomath-211.github.io/biomath211winter2021/2021/01/03/preclass.html) |
 |  2 | 1/11, 1/13 | Parsimony/Distance Methods |
-|  3 | 1/18, 1/20 | Holiday/Continuous-Time Markov Models | | [PS1](https://ucla-biomath-211.github.io/biomath211winter2021/2021/01/04/hw1.html)
+|  3 | 1/18, 1/20 | Holiday/Continuous-Time Markov Models | | [PS1, due 1/22](https://ucla-biomath-211.github.io/biomath211winter2021/2021/01/04/hw1.html)
 |  4 | 1/25, 1/27 | Likelihood Methods |
 |  5 | 2/1, 2/3   | Bayesian Phylogenetics |
 |  6 | 2/8, 2/10  | Model Selection |
