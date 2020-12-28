@@ -56,32 +56,25 @@ Many homework problems and all (unless highly theoretical) final projects will r
 - [SPREAD](https://github.com/phylogeography/SpreaD3) -- Spatial phylogenetic reconstruction of evolutionary dynamics (Bielejec, Baele, Rambaut, Suchard, Lemey)
 - [FigTree](http://tree.bio.ed.ac.uk/software/figtree/) -- flexible tree drawing program (Rambaut)
 
+### Practicals
 
-### Course Materials
+Note that [http://beast.community](http://beast.community) serves up many tutorials that we may use in this course, each with molecular epidemiology of infectious disease examples and [Joe Felsenstein](http://evolution.gs.washington.edu/book/datasets.html) provides all datasets used in _Inferring Phylogenies_.
 
-Required book (freely available via UCLA library):
+### Grading
 
-* Julian Faraway, _Extending the Linear Model with R_, 2nd Edition, CRC Press (2016), [UCLA library link](https://catalog.library.ucla.edu/vwebv/holdingsInfo?searchId=1577&recCount=50&recPointer=2&bibId=8877916)
+Grades will be based on the homework (50%) and final phylogenetic analysis project (50%).
 
-Following book is recommended but not required:
+### Data Analysis Project
 
-* Annette Dobson and Adrian Barnett, _An Introducton to Generalized Linear Models_, 4th Edition, CRC Press (2018), [Amazon](https://www.amazon.com/Introduction-Generalized-Chapman-Statistical-Science/dp/1138741515/ref=sr_1_1?dchild=1&keywords=an+INTROduction+TO+GENERALIZED+LINEAR+MODELS&qid=1585366195&sr=8-1)
+You are expected to perform an original phylogenetic data analysis project during this course and present your model developments or findings in a mini-seminar series (approximately 15-20 mins per student) during Finals week.
+Additionally, a written report of your work (max. 10 typed pages) is due on
+3/19 by 5PM via email (PDF).  You are responsible for finding an appropriate data set and designing your study. One page project proposals
+are due
+2/19 by 5PM via email (PDF).  You should plan on attending several Biostatistics (Wednesdays at 3:30PM) and Human Genetics (Mondays at 11:00AM) department seminars to get a feeling for the appropriate format.
 
 ### Attendance
 
-I usually require class attendence. Given the COVID-19 pandemic, I understand students may not be able to attend certain lectures due to medical or technical reasons. Please proactively communicate with the instructor and TA and notify us your circumstances at earliest chance.
-
-### Homework
-
-You will be required to work on 7-8 homework assignments throughout the quarter.
-
-### Exam
-
-There is a midterm exam (time TBD) and a final exam .
-
-### Final Grade
-
-Grades will be based on homework (30%), midterm (30%), final exam (30%), and class participation (lecture/office hour attendence and questions) (10%).
+I usually expect class attendance. Given the COVID-19 pandemic, I understand students may not be able to attend certain lectures due to medical or technical reasons. Please proactively communicate with me about your circumstances at earliest chance.
 
 ### UCLA ADA Policy
 
