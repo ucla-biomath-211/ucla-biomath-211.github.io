@@ -7,9 +7,9 @@ title: Biomath 211
 
 ## Syllabus
 
-### Course Description
+### Course Topics
 
-Generalized linear models and applications in public health.
+Theoretical models in molecular evolution focusing on phylogenetic techniques.  Topics include evolutionary tree reconstruction methods, studies of viral evolution, phylogeography and coalescent approaches.  Examples provided from evolutionary biology and evolutionary medicine, with a unique focus on implications for human disease processes.  I would appreciate suggestions for special topics that may interest the class.
 
 ### Lecture and Practicals
 
@@ -27,10 +27,6 @@ Office hours: offered generously; please email me.
 ### Course Webpage
 
 <https://ucla-biomath-211.github.io>
-
-### Course Topics
-
-Theoretical models in molecular evolution focusing on phylogenetic techniques.  Topics include evolutionary tree reconstruction methods, studies of viral evolution, phylogeography and coalescent approaches.  Examples provided from evolutionary biology and evolutionary medicine, with a unique focus on implications for human disease processes.  I would appreciate suggestions for special topics that may interest the class.
 
 ### Course Learning Objectives and Competencies
 
