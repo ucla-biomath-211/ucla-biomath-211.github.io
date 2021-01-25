@@ -16,7 +16,7 @@ Zoom link: <https://ucla.zoom.us/j/97761191576>, for call in dial +1-669-900-683
 |  3 | 1/18, 1/20 | Holiday/Continuous-Time Markov Models | | [PS1, due 1/22](https://ucla-biomath-211.github.io/biomath211winter2021/2021/01/04/hw1.html)
 |  4 | 1/25, 1/27 | Likelihood Methods |
 |  5 | 2/1, 2/3   | Bayesian Phylogenetics |
-|  6 | 2/8, 2/10  | Model Selection | | [PS1, due 2/12](https://ucla-biomath-211.github.io/biomath211winter2021/2021/01/25/hw2.html)
+|  6 | 2/8, 2/10  | Model Selection | | [PS2, due 2/12](https://ucla-biomath-211.github.io/biomath211winter2021/2021/01/25/hw2.html)
 |  7 | 2/15, 2/17 | Holiday/Phylogeography | | Abstract, due 2/19
 |  8 | 2/22, 2/24 | Comparative Methods |
 |  9 | 3/1, 3/3   | Molecular Epidemiology of Infectious Diseases |
