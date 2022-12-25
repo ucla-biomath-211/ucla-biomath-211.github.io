@@ -3,7 +3,7 @@ layout: course
 title: Biomath 211
 ---
 
-# Biomath 211 - Mathematical and Statistical Phylogenetics - Winter 2021
+# Biomath 211 - Mathematical and Statistical Phylogenetics - Winter 2023
 
 ## Syllabus
 
@@ -13,14 +13,14 @@ Theoretical models in molecular evolution focusing on phylogenetic techniques.  
 
 ### Lecture and Practicals
 
-Mon 9am-10:50pm @ Zoom <https://ucla.zoom.us/j/97761191576>\
-Wed 9am-10:50am @ Zoom <https://ucla.zoom.us/j/97761191576>
+Mon 9am-10:50pm in Life Sciences 5236\
+Wed 9am-10:50am in Life Sciences 5236
 
 ### Instructor
 
 [Marc A. Suchard](http://msuchard.github.io/)\
 Office: 6558 Gonda\
-Phone: (310)825-7442\
+Phone: (310) 825-7442\
 Email: <msuchard@ucla.edu>\
 Office hours: offered generously; please email me.
 
@@ -78,9 +78,9 @@ Grades will be based on the homework (50%) and final phylogenetic analysis proje
 
 You are expected to perform an original phylogenetic data analysis project during this course and present your model developments or findings in a mini-seminar series (approximately 15-20 mins per student) during Finals week.
 Additionally, a written report of your work (max. 10 typed pages) is due on
-3/19 by 5PM via email (PDF).  You are responsible for finding an appropriate data set and designing your study. One page project proposals
+3/24 by 5PM via email (PDF).  You are responsible for finding an appropriate data set and designing your study. One page project proposals
 are due
-2/19 by 5PM via email (PDF).  You should plan on attending several Biostatistics (Wednesdays at 3:30PM) and Human Genetics (Mondays at 11:00AM) department seminars to get a feeling for the appropriate format.
+2/25 by 5PM via email (PDF).  You should plan on attending several Biostatistics (Wednesdays at 3:30PM) and Human Genetics (Mondays at 11:00AM) department seminars to get a feeling for the appropriate format.
 
 ### Attendance
 
