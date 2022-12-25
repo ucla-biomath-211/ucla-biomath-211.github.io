@@ -21,4 +21,4 @@ Location: Life Sciences 5236
 |  8 | 2/27, 3/1 | Comparative Methods |
 |  9 | 3/6, 3/8   | Molecular Epidemiology of Infectious Diseases |
 | 10 | 3/13, 3/15  | Special Topics |
-| 11 | 3/22      | Mini-Seminars |
+| 11 | 3/22      | Mini-Seminars | | Report, due 3/24
