@@ -16,7 +16,7 @@ Location: Life Sciences 5236
 |  3 | 1/23, 1/25 | Distance Methods/Continuous-Time Markov Models | | [PS1, due 1/27](https://ucla-biomath-211.github.io/biomath211winter2023/2023/01/08/hw1.html)
 |  4 | 1/30, 2/1 | Likelihood Methods |
 |  5 | 2/6, 2/8   | Bayesian Phylogenetics |
-|  6 | 2/13, 2/15  | Model Selection | 
+|  6 | 2/13, 2/15  | Model Selection | | [PS2, due 2/17](https://ucla-biomath-211.github.io/biomath211winter2023/2023/01/30/hw2.html)
 |  7 | 2/20, 2/22 | Holiday/Phylogeography | | Abstract, due 2/25
 |  8 | 2/27, 3/1 | Comparative Methods |
 |  9 | 3/6, 3/8   | Molecular Epidemiology of Infectious Diseases |
