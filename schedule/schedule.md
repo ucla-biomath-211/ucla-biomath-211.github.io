@@ -11,14 +11,14 @@ Location: Life Sciences 5236
 
 | Week | Class Dates | Tentative Topic | Posts | Due |
 |:-----------|:-----------|:------------|:------------|:------------|:------------|
-|  1 | 1/9, 1/11   | Intro/Trees and Parsimony | 
-|  2 | 1/16, 1/18 | Holiday/Parsimony |
-|  3 | 1/23, 1/25 | Distance Methods/Continuous-Time Markov Models | | [PS1, due 1/27](https://ucla-biomath-211.github.io/biomath211winter2023/2023/01/08/hw1.html)
-|  4 | 1/30, 2/1 | Likelihood Methods |
-|  5 | 2/6, 2/8   | Bayesian Phylogenetics |
-|  6 | 2/13, 2/15  | Model Selection | | [PS2, due 2/17](https://ucla-biomath-211.github.io/biomath211winter2023/2023/01/30/hw2.html)
-|  7 | 2/20, 2/22 | Holiday/Phylogeography | | Abstract, due 2/25
-|  8 | 2/27, 3/1 | Comparative Methods |
-|  9 | 3/6, 3/8   | Molecular Epidemiology of Infectious Diseases |
-| 10 | 3/13, 3/15  | Special Topics |
-| 11 | 3/22      | Mini-Seminars | | Report, due 3/24
+|  1 | 1/8, 1/10   | Intro/Trees and Parsimony | 
+|  2 | 1/15, 1/17 | Holiday/Parsimony |
+|  3 | 1/22, 1/24 | Distance Methods/Continuous-Time Markov Models | | [PS1, due 1/26](https://ucla-biomath-211.github.io/biomath211winter2024/2024/01/08/hw1.html)
+|  4 | 1/29, 1/31 | Likelihood Methods |
+|  5 | 2/5, 2/7   | Bayesian Phylogenetics |
+|  6 | 2/12, 2/14  | Model Selection | | [PS2, due 2/16](https://ucla-biomath-211.github.io/biomath211winter2024/2024/01/30/hw2.html)
+|  7 | 2/19, 2/21 | Holiday/Phylogeography | | Abstract, due 2/23
+|  8 | 2/26, 2/28 | Comparative Methods |
+|  9 | 3/4, 3/6   | Molecular Epidemiology of Infectious Diseases |
+| 10 | 3/11, 3/13  | Special Topics |
+| 11 | 3/20      | Mini-Seminars | | Report, due 3/22
