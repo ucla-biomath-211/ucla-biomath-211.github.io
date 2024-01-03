@@ -58,11 +58,11 @@ _Statistical Methods in Molecular Evolution_ edited by Nielsen.  _Biological Seq
 Many homework problems and all (unless highly theoretical) final projects will require phylogenetic computation.  I have reserved the Biomath computer lab on Wednesdays for sporadic in-class data analysis examples and time for students to familiarize themselves with several existing phylogenetic programs.  Free packages include:
 
 - [Geneious](http://www.geneious.com) -- convenient framework for analyzing molecular sequence data, excellent user-interface and plugins to run most evolutionary biology (Biomatters)
-- [PHYLIP](http://evolution.genetics.washington.edu/phylip.html) -- large collection of different parsimony-, distance- and likelihood-based programs (Felsenstein)
+- [PHYLIP](https://phylipweb.github.io/phylip) -- large collection of different parsimony-, distance- and likelihood-based programs (Felsenstein)
 - [PAML](http://abacus.gene.ucl.ac.uk/software/paml.html) -- likelihood- and empirical Bayes-based nucleotide and codon programs (Yang)
-- [MrBayes](http://mrbayes.csit.fsu.edu/index.php) -- Bayesian sampler for standard continuous-time Markov chain models (Ronquist, Huelsenbeck, Larget, Simon, Suchard)
+- [MrBayes](https://nbisweden.github.io/MrBayes) -- Bayesian sampler for standard continuous-time Markov chain models (Ronquist, Huelsenbeck, Larget, Simon, Suchard)
 - [BEAST](http://beast.community) -- Bayesian sampler for coalescent models (Drummond, Rambaut, Suchard)
-- [BAli-Phy](http://www.biomath.ucla.edu/msuchard/bali-phy/) -- Bayesian sampler for joint estimation of alignment and phylogeny (Redelings, Suchard)
+- [BAli-Phy](https://www.bali-phy.org) -- Bayesian sampler for joint estimation of alignment and phylogeny (Redelings, Suchard)
 - [SPREAD](https://github.com/phylogeography/SpreaD3) -- Spatial phylogenetic reconstruction of evolutionary dynamics (Bielejec, Baele, Rambaut, Suchard, Lemey)
 - [FigTree](http://tree.bio.ed.ac.uk/software/figtree/) -- flexible tree drawing program (Rambaut)
 
