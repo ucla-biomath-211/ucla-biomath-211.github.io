@@ -13,7 +13,7 @@ Location: Life Sciences 5236
 |:-----------|:-----------|:------------|:------------|:------------|:------------|
 |  1 | 1/8, 1/10   | Intro/Trees and Parsimony | 
 |  2 | 1/15, 1/17 | Holiday/Parsimony |
-|  3 | 1/22, 1/24 | Distance Methods/Continuous-Time Markov Models | | [PS1, due 1/26](https://ucla-biomath-211.github.io/biomath211winter2024/2024/01/04/hw1.html)
+|  3 | 1/22, 1/24 | Distance Methods/Continuous-Time Markov Models | | [PS1, due 1/26](https://ucla-biomath-211.github.io/biomath211winter2024/2024/01/03/hw1.html)
 |  4 | 1/29, 1/31 | Likelihood Methods |
 |  5 | 2/5, 2/7   | Bayesian Phylogenetics |
 |  6 | 2/12, 2/14  | Model Selection | | [PS2, due 2/16](https://ucla-biomath-211.github.io/biomath211winter2024/2024/01/30/hw2.html)
