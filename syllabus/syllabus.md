@@ -18,7 +18,7 @@ Wed 9am-10:50am in Life Sciences 5236
 
 ### Instructor
 
-[Marc A. Suchard](http://msuchard.github.io/)\
+[Marc A. Suchard](https://suchard-group.github.io/)\
 Office: 6558 Gonda\
 Phone: (310) 825-7442\
 Email: <msuchard@ucla.edu>\
