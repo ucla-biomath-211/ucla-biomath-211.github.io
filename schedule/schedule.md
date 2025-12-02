@@ -17,7 +17,7 @@ Location: Life Sciences 5236
 |  4 | 1/26, 1/28 | Likelihood Methods |
 |  5 | 2/2, 2/4   | Bayesian Phylogenetics |
 |  6 | 2/9, 2/11  | Model Selection | | [PS2, due 2/13](https://ucla-biomath-211.github.io/biomath211winter2026/2026/01/05/hw2.html)
-|  7 | 2/16, 2/18 | Holiday / Phylogeography | | Abstract, due 2/23
+|  7 | 2/16, 2/18 | Holiday / Phylogeography | | Abstract, due 2/20
 |  8 | 2/23, 2/25 | Comparative Methods |
 |  9 | 3/2, 3/4   | Molecular Epidemiology of Infectious Diseases |
 | 10 | 3/9, 3/11  | Mini-Seminars |
