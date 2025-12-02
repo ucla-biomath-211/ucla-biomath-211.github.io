@@ -22,7 +22,3 @@ Location: Life Sciences 5236
 |  9 | 3/2, 3/4   | Molecular Epidemiology of Infectious Diseases |
 | 10 | 3/9, 3/11  | Mini-Seminars |
 | 11 | Finals     | | | Report, due 3/20
-
-1/19, 2/16 holiday
-
-3/11 last day
